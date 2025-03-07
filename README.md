@@ -15,18 +15,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | WEB APIS                                      | <a href="https://github.com/phuongtoVN/Code-quiz.git">Code quiz</a>|
-| NMAP SCRIPTS                                  | <a href="https://github.com/RaineJohnson/Nmap-Scripts.git">Nmap Scripting Engine</a>|
-| HASH COLLISION                                | <a href="https://github.com/RaineJohnson/337Assignment2.git">OTP Generator</a>|
-| ENCRYPTION ALGORITHMS                         | <a href="https://github.com/RaineJohnson/XOR-Cipher.git">XOR Cipher</a>|
-| SESSION AUTHENTICATION                        | <a href="https://github.com/RaineJohnson/Session-Authentication.git">Session Authentication Using Node.js</a>|
-| EXPRESS SESSION MANAGEMENT                    | <a href="https://github.com/RaineJohnson/Express-Session-Management.git">Securing An Express Application</a>|
-| OAUTH APPLICATION                             | <a href="https://github.com/RaineJohnson/OAuth-Through-GitHub.git">GitHub OAuth Application</a>|
-| MANAGING API KEYS AND FILES                   | <a href="https://github.com/RaineJohnson/Node-Env-Keys-Management.git">API Key and File Management</a>|
-| DATA SECURITY                                 | <a href="https://github.com/RaineJohnson/Data-Security-Application.git">School Database Security</a>|
-| SQL INJECTION PREVENTION                      | <a href="https://github.com/RaineJohnson/SQL-Injection-Project.git">Ice Cream Web Application</a>|
-| PREVENTING CROSS-SITE SCRIPTING ATTACKS       | <a href="https://github.com/RaineJohnson/Preventing-XSS-Attacks.git">Fake Restaurant Reviews Web Application</a>|
-| DEFENSIVE CODING                              | <a href="https://github.com/RaineJohnson/Defensive-Coding.git">Proactive Code Security Application</a>|
-| CYBERSECURITY DOCUMENTATION                   | <a href="https://github.com/RaineJohnson/Non-Code-Security-Documentation.git">Non-Code Security Documentation</a>|
+
 
 ## Tools
 
@@ -152,7 +141,3 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Security Assessments
 
 <a href="https://github.com/RaineJohnson/Authentication-with-passport.js.git">Authentication with Passport.js</a> <br/>
-<a href="https://github.com/RaineJohnson/Bcrypt-Authentication.git">Authentication using Bcrypt</a> <br/>
-<a href="https://github.com/RaineJohnson/Stored-XSS-Attack.git">Stored XSS Attack</a> <br/>
-<a href="https://github.com/RaineJohnson/Reflected-XSS-Attack.git">Reflected XSS Attack</a> <br/>
-<a href="https://github.com/RaineJohnson/DOM-Based-XSS-Attack.git">DOM-Based XSS Attack</a>
