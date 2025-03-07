@@ -14,7 +14,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| WEB APIS                                      | <a href="git@github.com:phuongtoVN/Code-quiz.git">Code quiz</a>|
+| WEB APIS                                      | <a href="https://github.com/phuongtoVN/Code-quiz.git">Code quiz</a>|
 | NMAP SCRIPTS                                  | <a href="https://github.com/RaineJohnson/Nmap-Scripts.git">Nmap Scripting Engine</a>|
 | HASH COLLISION                                | <a href="https://github.com/RaineJohnson/337Assignment2.git">OTP Generator</a>|
 | ENCRYPTION ALGORITHMS                         | <a href="https://github.com/RaineJohnson/XOR-Cipher.git">XOR Cipher</a>|
