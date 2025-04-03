@@ -1,5 +1,5 @@
 # Hi There! I'm Phuong To
-<a href="https://www.linkedin.com/in/phuong-y-to/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /> <a href="https://github.com/RaineJohnson/Non-Code-Security-Documentation/blob/main/Raine%20Johnson%20Resume.pdf" target="_blank">
+<a href="https://www.linkedin.com/in/phuong-y-to/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /> 
   <img src="https://img.shields.io/badge/-Resume-FFD700?&style=for-the-badge&logo=googledocs&logoColor=white" />
 </a>
 </a>
