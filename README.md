@@ -50,22 +50,6 @@ I'm aiming for a career in **cybersecurity** or **DevOps engineering**, where I 
 <a href="https://en.wikipedia.org/wiki/SQL"><img src="https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=MySQL&logoColor=white"/></a>
 <a href="https://www.latex-project.org/"><img src="https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/></a>
 
----
-
-## 📜 Policies & Frameworks
-
-Familiar with:
-- NIST Cybersecurity Framework
-- FERPA, HIPAA, CCPA, GDPR
-- PCI-DSS, FISMA, FedRAMP
-- Access Control & Secure Logging
-
----
-
-## 📄 Certifications
-
-*GitHub Portfolio Project:*  
-[My React Portfolio](https://github.com/phuongtoVN/my-react-portfolio.git)
 
 ---
 
