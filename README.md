@@ -7,13 +7,13 @@
   <img src="https://img.shields.io/badge/-Portfolio-FFD700?&style=for-the-badge&logo=googledocs&logoColor=white" />
 </a>
 
-I'm an undergraduate studying Computer Science & Software Engineering at the University of Washington Bothell. I specialize in full-stack development and DevOps, and I’m passionate about building secure, efficient systems that scale.
+I'm an undergraduate at the University of Washington Bothell, majoring in Computer Science & Software Engineering. I focus on full-stack development and DevOps, with a passion for building secure, scalable, and efficient systems. I enjoy solving real-world problems through clean code, automation, and thoughtful design.
 
 ---
 
 ## 💼 Objective
 
-I'm aiming for a career in **cybersecurity** or **DevOps engineering**, where I can combine technical skills and teamwork to build secure pipelines, maintain infrastructure, and support scalable applications.
+I'm aiming for a career in **cybersecurity** or **DevOps engineering** or **full-stack development**, where I can combine technical skills and teamwork to build secure pipelines, maintain infrastructure, and develop scalable applications.
 
 ---
 
@@ -21,22 +21,32 @@ I'm aiming for a career in **cybersecurity** or **DevOps engineering**, where I 
 
 | Skill                | Project |
 |---------------------|---------|
-| CI/CD, Docker, YAML | [Reusable Azure DevOps Pipelines](https://github.com/phuongtoVN/devops-pipeline-template) |
+| CI/CD, Docker, YAML | [Rise of the Elements (Auto-Deployed Quiz App)](https://github.com/phuongtoVN/devops-pipeline-template) |
 | React, UI/UX        | [Kitchen Alchemy](https://github.com/Zed-CSP/codeConnoisseurs) |
 | Backend (React)     | [Card-X](https://github.com/escotoj/Card-X) |
 | API Integration     | [Sneeze the Day](https://github.com/Zed-CSP/dangerForce-Proj-1) |
-| Web Security        | [Authentication with Passport.js](https://github.com/RaineJohnson/Authentication-with-passport.js) |
-| Web Quiz App        | [Code Quiz](https://github.com/phuongtoVN/Code-quiz) |
+| Node.js, Inquirer, SVG      | [SVG Logo Generator (CLI Tool)](https://github.com/phuongtoVN/SVG-logo-maker) |
+| Node.js, Express, DB        | [Amazing Note Maker (Note-Taking App)](https://github.com/phuongtoVN/amazing-note-makerr) |
+| JavaScript, API Integration | [Weather Dashboard (OpenWeather API)](https://github.com/phuongtoVN/weather_dashboard) |
+| JavaScript, jQuery, Day.js  | [Workday Scheduler (Time Management)](https://github.com/phuongtoVN/Workday-schedule) |
+| JavaScript, Security        | [Password Generator (Cybersecurity)](https://github.com/phuongtoVN/Generate-password) |
+| SQL, Node.js, CLI           | [Employee Tracker (Database Manager)](https://github.com/phuongtoVN/employee-trackerr) |
+
 
 ---
 
 ## 🧰 Tools & Technologies
 
 - **DevOps:** GitHub Actions, Azure DevOps, Docker, YAML, Git, GitHub
-- **Web Development:** React.js, Next.js, TypeScript, HTML, CSS, Bootstrap
-- **Deployment:** GitHub Pages, Custom Domain Setup
-- **Security Tools:** Wireshark, Burp Suite, Metasploit, Nessus, Nmap, GPG
-- **OS:** Ubuntu, Kali Linux, Oracle VM
+- **Web Development:** React.js, Next.js, TypeScript, JavaScript, HTML, CSS, TailwindCSS, Bootstrap
+- **Backend & Full-Stack:** Node.js, Express.js, REST APIs, Inquirer.js
+- **Database**: SQL, MySQL, SQLite, Sequelize, db.js (custom DB handling)
+- **Testing**: Jest, Playwright (based on past testing conversations)
+- **Deployment & Hosting**: GitHub Pages, Custom Domain Setup, Vercel
+- **Tools & Utilities**: Postman, Visual Studio Code, npm, Day.js
+- **Soft Skills & Process**: Technical Documentation, Agile Collaboration, Team Communication
+- **Security Tools:** Wireshark, Nessus
+- **OS:** Ubuntu, Kali Linux, Oracle VM VirtualBox, Windows
 
 ---
 
