@@ -64,4 +64,4 @@ I'm aiming for a career in **cybersecurity** or **DevOps engineering** or **full
 ---
 
 ## 📫 Let's Connect!
-Open to internship and job opportunities related to DevOps, Full-Stack Engineering, and Cybersecurity.
+Open to job opportunities related to DevOps, Full-Stack Engineering, and Cybersecurity.
