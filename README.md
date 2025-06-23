@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/-Portfolio-FFD700?&style=for-the-badge&logo=googledocs&logoColor=white" />
 </a>
 
-I'm an undergraduate at the University of Washington Bothell, majoring in Computer Science & Software Engineering. I focus on full-stack development and DevOps, with a passion for building secure, scalable, and efficient systems. I enjoy solving real-world problems through clean code, automation, and thoughtful design.
+I am a University of Washington Bothell graduate with a B.S. in Computer Science & Software Engineering. I currently work as a Junior DevOps Engineer, where I focus on full-stack development, automation, and deployment. I am passionate about building secure, scalable, and efficient systems that solve real-world problems. My goal is to create thoughtful solutions using clean code, continuous integration and deployment, and best practices that streamline processes and improve performance.
 
 ---
 
