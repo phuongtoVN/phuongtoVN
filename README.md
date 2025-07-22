@@ -21,7 +21,7 @@ I'm aiming for a career in **cybersecurity** or **DevOps engineering** or **full
 
 | Skill                | Project |
 |---------------------|---------|
-| CI/CD, Docker, YAML | [Rise of the Elements (Auto-Deployed Quiz App)](https://github.com/phuongtoVN/devops-pipeline-template) |
+| CI/CD, Docker, YAML | [Rise of the Elements (React) ](https://github.com/phuongtoVN/rise-of-the-elements) |
 | React, UI/UX        | [Kitchen Alchemy](https://github.com/Zed-CSP/codeConnoisseurs) |
 | Backend (React)     | [Card-X](https://github.com/escotoj/Card-X) |
 | API Integration     | [Sneeze the Day](https://github.com/Zed-CSP/dangerForce-Proj-1) |
