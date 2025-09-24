@@ -31,7 +31,7 @@ I'm aiming for a career in **cybersecurity** or **DevOps engineering** or **full
 | JavaScript, jQuery, Day.js  | [Workday Scheduler (Time Management)](https://github.com/phuongtoVN/Workday-schedule) |
 | JavaScript, Security        | [Password Generator (Cybersecurity)](https://github.com/phuongtoVN/Generate-password) |
 | SQL, Node.js, CLI           | [Employee Tracker (Database Manager)](https://github.com/phuongtoVN/employee-trackerr) |
-|React, TypeScript, Vite, GitHub Pages|	[Defect Tracker (Front End)] (https://github.com/phuongtoVN/defect-tracker) |
+|React, TypeScript, Vite, GitHub Pages|	[Defect Tracker (Front End)](https://github.com/phuongtoVN/defect-tracker) |
 
 
 ---
