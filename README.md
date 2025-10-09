@@ -21,6 +21,8 @@ I'm aiming for a career in **cybersecurity** or **DevOps engineering** or **full
 
 | Skill                | Project |
 |---------------------|---------|
+
+|AI analyzer, AI consultant | [MaiBeauti(Next.js, Face ++ API)](https://github.com/phuongtoVN/MaiBeauti) |
 | CI/CD, Docker, YAML | [Rise of the Elements (React) ](https://github.com/phuongtoVN/rise-of-the-elements) |
 | React, UI/UX        | [Kitchen Alchemy](https://github.com/Zed-CSP/codeConnoisseurs) |
 | Backend (React)     | [Card-X](https://github.com/escotoj/Card-X) |
