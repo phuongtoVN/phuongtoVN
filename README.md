@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/-Portfolio-FFD700?&style=for-the-badge&logo=googledocs&logoColor=white" />
 </a>
 
-a DevOps Software Engineer specializing in full-stack development, CI/CD automation, and cloud infrastructure. I design and implement containerized deployment pipelines using Docker, Kubernetes, GitHub Actions, and Azure DevOps to build scalable, efficient systems that solve real-world problems.
+I'm a DevOps Software Engineer specializing in full-stack development, CI/CD automation, and cloud infrastructure. I design and implement containerized deployment pipelines using Docker, Kubernetes, GitHub Actions, and Azure DevOps to build scalable, efficient systems that solve real-world problems.
 With a B.S. in Computer Science & Software Engineering from the University of Washington Bothell and hands-on experience developing full-stack applications and managing cloud infrastructure, I'm passionate about creating secure, reliable solutions through clean code, automation, and DevOps best practices that streamline workflows and drive performance.
 
 ---
