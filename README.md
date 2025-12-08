@@ -7,7 +7,8 @@
   <img src="https://img.shields.io/badge/-Portfolio-FFD700?&style=for-the-badge&logo=googledocs&logoColor=white" />
 </a>
 
-I am a University of Washington Bothell graduate with a B.S. in Computer Science & Software Engineering. I currently work as a Junior DevOps Engineer, where I focus on full-stack development, automation, and deployment. I am passionate about building secure, scalable, and efficient systems that solve real-world problems. My goal is to create thoughtful solutions using clean code, continuous integration and deployment, and best practices that streamline processes and improve performance.
+a DevOps Software Engineer specializing in full-stack development, CI/CD automation, and cloud infrastructure. I design and implement containerized deployment pipelines using Docker, Kubernetes, GitHub Actions, and Azure DevOps to build scalable, efficient systems that solve real-world problems.
+With a B.S. in Computer Science & Software Engineering from the University of Washington Bothell and hands-on experience developing full-stack applications and managing cloud infrastructure, I'm passionate about creating secure, reliable solutions through clean code, automation, and DevOps best practices that streamline workflows and drive performance.
 
 ---
 
@@ -39,16 +40,18 @@ I'm aiming for a career in **cybersecurity** or **DevOps engineering** or **full
 
 ## 🧰 Tools & Technologies
 
-- **DevOps:** GitHub Actions, Azure DevOps, Docker, YAML, Git, GitHub
-- **Web Development:** React.js, Next.js, TypeScript, JavaScript, HTML, CSS, TailwindCSS, Bootstrap
-- **Backend & Full-Stack:** Node.js, Express.js, REST APIs, Inquirer.js
-- **Database**: SQL, MySQL, SQLite, Sequelize, db.js (custom DB handling)
-- **Testing**: Jest, Playwright (based on past testing conversations)
-- **Deployment & Hosting**: GitHub Pages, Custom Domain Setup, Vercel
-- **Tools & Utilities**: Postman, Visual Studio Code, npm, Day.js
-- **Soft Skills & Process**: Technical Documentation, Agile Collaboration, Team Communication
-- **Security Tools:** Wireshark, Nessus
-- **OS:** Ubuntu, Kali Linux, Oracle VM VirtualBox, Windows
+* **DevOps & Infrastructure:** Kubernetes, Rancher, Docker, GitHub Actions, Azure DevOps, YAML, Git, GitHub
+* **Web Development:** React.js, Next.js, TypeScript, JavaScript, HTML, CSS, TailwindCSS, Bootstrap
+* **Backend & Full-Stack:** Node.js, Express.js, REST APIs, Inquirer.js, Sharp (image processing)
+* **Database:** SQL, MySQL, SQLite, SQL Server, Sequelize, Supabase, db.js (custom DB handling)
+* **Database Tools:** Azure Data Studio, DBeaver
+* **Testing:** Jest, Playwright
+* **Deployment & Hosting:** Kubernetes, GitHub Pages, Vercel, Custom Domain Setup
+* **APIs & Integration:** Face++ API, REST API Design, WebSocket (ZeroSync)
+* **Tools & Utilities:** Postman, Visual Studio Code, npm, Day.js, Notion
+* **Security Tools:** Wireshark, Nessus
+* **Operating Systems:** Ubuntu, Kali Linux, Windows, WSL (Windows Subsystem for Linux), Oracle VM VirtualBox
+* **Process & Collaboration:** Technical Documentation, Agile Collaboration, CI/CD Pipeline Design, Team Communication
 
 ---
 
@@ -66,4 +69,4 @@ I'm aiming for a career in **cybersecurity** or **DevOps engineering** or **full
 ---
 
 ## 📫 Let's Connect!
-Open to job opportunities related to DevOps, Full-Stack Engineering, and Cybersecurity.
+Open to job opportunities related to DevOps, Full-Stack Engineering, Software Engineering, and Cybersecurity.
