@@ -48,7 +48,7 @@ I'm aiming for a career in **cybersecurity** or **DevOps engineering** or **full
 * **Testing:** Jest, Playwright
 * **Deployment & Hosting:** Kubernetes, GitHub Pages, Vercel, Custom Domain Setup
 * **APIs & Integration:** Face++ API, REST API Design, WebSocket (ZeroSync)
-* **Tools & Utilities:** Postman, Visual Studio Code, npm, Day.js, Notion
+* **Tools & Utilities:** Postman, Visual Studio Code, npm, Day.js, Notion, Antigravity, Cursor
 * **Security Tools:** Wireshark, Nessus
 * **Operating Systems:** Ubuntu, Kali Linux, Windows, WSL (Windows Subsystem for Linux), Oracle VM VirtualBox
 * **Process & Collaboration:** Technical Documentation, Agile Collaboration, CI/CD Pipeline Design, Team Communication
